@@ -28,11 +28,12 @@ At a glance, this dashboard enables one to answer the following questions:
    
 ## Modelling
 
-include here the image of the power bi dashboard
+
+![data_model_power_bi](https://github.com/user-attachments/assets/a2a6e8c3-212d-4817-a06c-8e0e5fd1f026)
 
 ## Visualization:
-
-#include here the image of the entire dashboard
+![second_version_of_dashboard](https://github.com/user-attachments/assets/60dc3fc5-0b03-4fac-8b49-b355c15b1109)
+ 
 
 ## Analysis
 
@@ -49,7 +50,7 @@ Based on these insights, these are the following takeaways:
 2. Expense Management: Nearly 40.44% of Lacoca's expenses are going towards house rent. It would be beneficial to exlore options for reducing this significant cost, potentially by considering alternative housing arrangements. 
 
 
-This is a link to a medium post for more details: 
+This is a link to a medium post for more details: https://www.datascienceportfol.io/yole_amos/projects/7
 
 
 Thanks!
